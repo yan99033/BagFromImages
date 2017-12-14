@@ -1,3 +1,11 @@
+This package has been 'catkinized'. To use the package, read the instruction below.
+
+### New installation
+In your catkin workspace src folder (cd ~/catkin_ws/src)
+    git clone https://github.com/yan99033/BagFromImages.git BagFromImages
+    cd ..
+    catkin_make
+
 # BagFromImages
 
 ROS package to generate a rosbag from a collection of images. Images are ordered alphabetically. The timestamp for each image is assigned according to the specified frequency. 
