@@ -2,7 +2,8 @@ This package has been 'catkinized'. To use the package, read the instruction bel
 
 ### New installation
 In your catkin workspace src folder (cd ~/catkin_ws/src)
-    git clone https://github.com/yan99033/BagFromImages.git BagFromImages
+
+    git clone https://github.com/yan99033/BagFromImages.git
     cd ..
     catkin_make
 
